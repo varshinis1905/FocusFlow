@@ -1,0 +1,3 @@
+Finish assignment|false
+Read chapter 4|false
+Plan project pitch|false
