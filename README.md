@@ -21,18 +21,3 @@ A compact productivity app combining a Pomodoro timer and a task list. Features 
 - `data/tasks.txt` (sample tasks)
 - `README.md`, `LICENSE`, `.gitignore`
 
-## Run
-1. Java 8+ required.
-2. Compile:
-   ```bash
-   javac -d bin -sourcepath src src/*.java
-   ```
-3. Run:
-   ```bash
-   java -cp bin FocusFlow
-   ```
-
-Or open in an IDE (IntelliJ/Eclipse) and run `FocusFlow.main()`.
-
-## License
-MIT — see LICENSE
